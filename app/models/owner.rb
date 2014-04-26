@@ -1,10 +1,10 @@
 class Owner
 	def name
-		name = 'Foobar Kadigan'
+		name = 'Melinda Sztankovits'
 	end
 	
 	def birthdate
-		birthdate = Date.new(1990, 12, 22)
+		birthdate = Date.new(1986, 02, 03)
 	end
 	
 	def countdown
